@@ -1,0 +1,16 @@
+@media(max width: 680px){
+	 width: 100%;
+      padding: 10px;
+	}
+
+nav ul li a:hover {
+  background-color:white;
+  color: black;
+}
+a:hover {
+  background-color:green;
+  color: black;
+}
+.web{
+	color:red;
+}
