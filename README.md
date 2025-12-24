@@ -1,1 +1,1 @@
-# My-HTML-Hosting
+# Information about COC
